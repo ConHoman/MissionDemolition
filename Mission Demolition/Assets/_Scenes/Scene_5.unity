@@ -186,6 +186,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectilePrefab: {fileID: 4733574614554329172, guid: 690c6017c322f3a47b3317ec5a5616b5, type: 3}
   velocityMult: 10
+  projLinePrefab: {fileID: 7882259319583980184, guid: 3c274e4366b25de49bc6fa4af452155d, type: 3}
   launchPoint: {fileID: 0}
   launchPos: {x: 0, y: 0, z: 0}
   projectile: {fileID: 0}
